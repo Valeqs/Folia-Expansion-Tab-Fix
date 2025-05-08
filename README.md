@@ -1,4 +1,4 @@
-This version is fixing the tab issue:
+**This version is fixing the tab issue:**
 
 08.05.2025 - 17:56:47 - [TAB v5.2.0] Player placeholder %folia_tps% generated an error when setting for player HelloWorld
 08.05.2025 - 17:56:47 - java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.ThreadedRegionizer$ThreadedRegion.getData()" because "currentRegion" is null
